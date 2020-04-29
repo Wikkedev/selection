@@ -27,7 +27,7 @@ Ressources utilisées :
 	J'ai préférer montrer ce que je sais faire.
 
 GITHUB
-	Vous trouverez les fichiers sur mon GITHUB que j'ai créer pour cette exercice et j'ai mis les fichiers sur mon site interet 'www.lerefugeinformatique' (dont je ne me suis pas occupé depuis plusieurs année ). Voici le lien : http://www.lerefugeinformatique.fr/simplon/index.php?p=mon_compte
+	Vous trouverez les fichiers sur mon GITHUB que j'ai créer pour cette exercice et j'ai mis les fichiers sur mon site internet 'www.lerefugeinformatique' (dont je ne me suis pas occupé depuis plusieurs années ). Voici le lien : http://www.lerefugeinformatique.fr/simplon/index.php?p=mon_compte
 	Vous aurez ainsi un aperçu visuel de mon travail.
 
 
